@@ -3,13 +3,6 @@ import styled from 'styled-components'
 export const HomeWrapper = styled.div`
   display: flex;
   align-items: center;
-  .left {
-    color: skyblue;
-  }
-  .center {
-    color: pink;
-  }
-  .right {
-    color: green;
-  }
+  height: 80px;
+  border-bottom: 1px solid #eee;
 `
